@@ -16,7 +16,7 @@ const AdmitCardPage = () => {
   };
 
   const admitCards = [
-    { id: 1, title: "ITBP ASI, HC, Constable vacancy online Admit Card 2024", date: "26 Dec 2024" },
+    { id: 1, title: "amit bhai hai aapna", date: "26 Dec 2024" },
     { id: 2, title: "SSC CGL Tier 1 Examination Admit Card 2024 (All Regions)", date: "25 Dec 2024" },
     { id: 3, title: "Railway NTPC CBT-1 Exam City & Date Intimation Slip", date: "24 Dec 2024" },
     { id: 4, title: "UP Police Constable Re-Exam Admit Card 2024", date: "23 Dec 2024" },
